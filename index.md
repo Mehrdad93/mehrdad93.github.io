@@ -9,7 +9,7 @@
 
 ---
 
-### [<> Machine Reading: NER-Prep Project](https://github.com/Mehrdad93/Machine-Reading/blob/master/README.md)
+### [<> Machine Reading: Named Entity Recognition-Prep](https://github.com/Mehrdad93/Machine-Reading/blob/master/README.md)
 <img src="https://raw.githubusercontent.com/Mehrdad93/Machine-Reading/master/Visuals/Sentence%20Co-occurence/1112.png">
 
 ---
