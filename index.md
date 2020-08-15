@@ -10,7 +10,7 @@
 ---
 ### [SFU Data Fellowships: AI Essentials](https://www.sfu.ca/big-data/online-data-science-course-data-fellowships?utm_source=Email_marketing&utm_medium=HTMLEmail&utm_campaign=Data_Fellowships)
 
-<img src="images/AI_workshop.png" width="600" height="200"/>
+<img src="images/AI_workshop.png">
 
 ---
 ### [NLP Business](/sample_page)
