@@ -20,7 +20,7 @@
 
 ---
 
-#### [Trajectory Path Prediction of AIMD simulations with RNN-based models](https://github.com/Mehrdad93/Trajectory-path-prediction/blob/master/Trajectory_prediction_RNN.pdf)
+#### [Trajectory Path Prediction of AIMD Simulations with RNN-based Algorithms](https://github.com/Mehrdad93/Trajectory-path-prediction/blob/master/Trajectory_prediction_RNN.pdf)
 
 *Predictions of the trajectory of the an atom in the studied compound and total potential energy by (a) GRU and (b) LSTM compared to AIMD baseline:*
 <img src="images/predict.png">
