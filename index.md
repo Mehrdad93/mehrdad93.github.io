@@ -20,8 +20,9 @@
 
 #### [<iii> Trajectory Path Prediction of AIMD simulations with RNN-based models](https://github.com/Mehrdad93/Trajectory-path-prediction/blob/master/Trajectory_prediction_RNN.pdf)
 
-<img src="images/density.png">
-<img src="images/prediction.png">
+<img src="images/Density.png">
+
+<img src="images/predict.png">
 
 ---
 
