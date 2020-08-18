@@ -25,8 +25,11 @@
 *Predictions of the trajectory of the an atom in the studied compound and total potential energy by (a) GRU and (b) LSTM compared to AIMD baseline:*
 <img src="images/predict.png">
 
-*Density plot of coordinates of (a) all atoms (b) randomly chosen atom i, over the AIMD simulation run:*
-<img src="images/Density.png">
+*A snapshot of the studied polymer trajectory in 3-D space before reaching the equilibration:*
+<img src="images/polymer.gif">
+
+<!-- *Density plot of coordinates of (a) all atoms (b) randomly chosen atom i, over the AIMD simulation run:* -->
+<!-- <img src="images/Density.png"> -->
 
 ---
 
