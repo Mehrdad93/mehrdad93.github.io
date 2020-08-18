@@ -20,7 +20,7 @@
 
 ---
 
-### [Music Recommendation System with Adjustable Attributes]()
+### [Music Recommendation System with Adjustable Attributes (Recommender Systems)]()
 
 *The proposed recommendation algorithm using user-based CF with user-tuning option:*
 
