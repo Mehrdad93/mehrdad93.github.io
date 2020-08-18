@@ -2,7 +2,7 @@
 
 ---
 
-## Featured Machine Learning Projects
+### Featured Machine Learning Projects
 
 ---
 
@@ -17,6 +17,18 @@
 
 *Co-occurrence network of "Person_name" and "Place_name" entities:*
 <img src="https://raw.githubusercontent.com/Mehrdad93/Machine-Reading/master/Visuals/Sentence%20Co-occurence/1112.png">
+
+---
+
+### [Music Recommendation System with Adjustable Attributes]()
+
+*The proposed recommendation algorithm using user-based CF with user-tuning option:*
+
+<img src="images/recom.png">
+
+*"Music is the shorthand of emotion."*
+
+*– LEO TOLSTOY*
 
 ---
 
@@ -36,19 +48,7 @@
 
 ---
 
-### [Music Recommendation System with Adjustable Attributes]()
-
-*The proposed recommendation algorithm using user-based CF with user-tuning option:*
-
-<img src="images/recom.png">
-
-*"Music is the shorthand of emotion."*
-
-*– LEO TOLSTOY*
-
----
-
-## Other Projects
+### Other Projects
 
 ---
 
