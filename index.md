@@ -2,7 +2,7 @@
 
 ---
 
-### Featured Machine Learning Projects
+### > Featured Machine Learning Projects
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Other Projects
+### > Other Projects
 
 ---
 
