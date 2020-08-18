@@ -1,4 +1,4 @@
-# GitHub Portfolio
+## GitHub Portfolio
 
 ---
 
@@ -41,6 +41,9 @@
 *The proposed recommendation algorithm using user-based CF with user-tuning option:*
 
 <img src="images/recom.png">
+
+*"Music is the shorthandof emotion."*
+*-- LEO TOLSTOY*
 
 ---
 
