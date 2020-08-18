@@ -42,8 +42,8 @@
 
 <img src="images/recom.png">
 
-*"Music is the shorthandof emotion."*
-*-- LEO TOLSTOY*
+*"Music is the shorthand of emotion."*
+*- LEO TOLSTOY*
 
 ---
 
