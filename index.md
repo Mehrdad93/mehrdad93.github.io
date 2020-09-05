@@ -32,7 +32,7 @@
 
 ---
 
-### [M.Sc. Thesis: Trajectory Path Prediction of AIMD Simulations with RNN-based Algorithms (Time Series Forecasting & Computational Chemistry)](https://github.com/Mehrdad93/Trajectory-path-prediction/blob/master/Trajectory_prediction_RNN.pdf)
+### [M.Sc. Thesis: Trajectory Path Prediction of AIMD Simulations with RNN-based Algorithms (Time Series Forecasting & Computational Chemistry)](https://github.com/Mehrdad93/Trajectory-path-prediction)
 
 [View this article on arXiv](https://arxiv.org/abs/1909.10124)
 
